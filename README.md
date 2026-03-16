@@ -20,6 +20,12 @@ A few years back, my house was intruded by a theif, although nothing was stolen 
 ## The Wiring Diagram:
 <img width="888" height="693" alt="image" src="https://github.com/user-attachments/assets/0dece85b-eff2-4d28-9a5e-86873e28c81e" />
 
+### Keep in mind, the PIR sensor above must be swapped with an IR sensor. The connections will stay the same. The sensor it needs to be switched with:
+
+![download](https://github.com/user-attachments/assets/b62432a5-05b9-4f04-b566-094444d0ea9a)
+
+
+
 ## List Of Materials:
 | Component Name | Quantity |
 |--------|--------|
